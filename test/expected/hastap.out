@@ -1,4 +1,4 @@
-\unset ECHO 
+\unset ECHO
 1..1013
 ok 1 - has_tablespace(non-existent tablespace) should fail
 ok 2 - has_tablespace(non-existent tablespace) should have the proper description
